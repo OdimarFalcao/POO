@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="/home/odimarfalcao/IdeaProjects/Calculator/.idea/runConfigurations" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="jdk.jfr.internal.tool.Main" />
+    <module name="Calculator" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
